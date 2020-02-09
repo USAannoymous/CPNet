@@ -9,7 +9,9 @@ Google Drive
 
 url: https://drive.google.com/file/d/1MpQLH1CJVR08eCMPhkgk16o4TL8m0Wxc/view?usp=sharing
 
-The zip contains nyu test data and checkpoint.
+The zip file contains nyu test data and checkpoint.
+
+The envirment requires CUDA 7.5 and pytorch 1.2.0
 
 Test step
 
