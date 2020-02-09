@@ -15,8 +15,8 @@ Test step
 
 1. run the command 'pip install -r requirements.txt'
 
-2. move test data to 'data' folder in zip file
+2. move test data in the zip file to 'data' folder
 
-3. move checkpoint 'nyu.pth' to root dictionary
+3. move checkpoint 'nyu.pth' in the zip file to root dictionary
 
 4. run the command 'python test.py' in the root dictionary
